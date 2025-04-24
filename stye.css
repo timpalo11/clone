@@ -232,8 +232,8 @@ body {
   font-family: sans-serif, georgia;
   font-size: 25px;
   font-style: normal;
-  font-weight: 1000px;
-  margin-top: 450px;
+
+  margin-top: 150px;
   color: rgb(250, 116, 192);
   margin-left: 200px;
 }
@@ -277,4 +277,8 @@ body {
   margin-left: 200px;
   justify-content: space-evenly;
   gap: 10px;
+}
+
+.feature {
+  margin-top: 5px;
 }
